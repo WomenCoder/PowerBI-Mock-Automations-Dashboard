@@ -1,0 +1,13 @@
+
+Hey!
+
+Welcome to the PowerBI Dashboard for a Mock Automation Project I created.
+
+The dasbhoard visualizes mock Automation data across:
+      Countries (USA, UK, France, Italy, India etc.)
+      Automation Solutions (RPA, ML, OCR, Chatbot etc.) 
+      CPG Divisions (Food, Beverages, Household Products etc.)
+      Teams (Business Analysts, Developers, Testers, Support)
+      Technologies (BluePrism, UIPath, Automation Anywhere, TensorFlow, Azure etc.)
+      
+The dashboard also captures Automation Run Hours and a Blocker tracker.
